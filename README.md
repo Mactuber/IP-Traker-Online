@@ -49,7 +49,12 @@ En la página principal, introduce la dirección IP que deseas rastrear en el ca
 
 ## Dependencias
 Este proyecto utiliza las siguientes tecnologías y servicios:
+-   **Pico.css**: Un framework CSS minimalista para un diseño limpio y responsivo.
+-   **RapidAPI**: Servicio para acceder a la API que proporciona información sobre direcciones IP.
 
-    Pico.css: Un framework CSS minimalista para un diseño limpio y responsivo.
-    RapidAPI: Servicio para acceder a la API que proporciona información sobre direcciones IP.
+## Ejemplo Práctico:
+![Imagen 1](images/img1.png)
+![Imagen 2](images/img2.png)
+![Imagen 3](images/img3.png)
+
 
