@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IP Lookup</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main class="container">
+      <form id="form">
+        <label>
+          IP que deseas rastrear 🕵️‍♀️🕵️‍♂️
+          <input 
+            required 
+            id="input" 
+            type="text" 
+            placeholder="Introduce aquí la IP"
+            pattern="^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$" 
+            title="Por favor, ingrese una dirección IPv4 válida (por ejemplo: 192.168.1.1)">
+          <small>Por ejemplo: 45.8.25.69</small>
+        </label>
+        <button type="submit" id="submit">
+          Rastrear información de esta IP
+        </button>
+      </form>
+
+      <div id="results">
+        <!-- Los resultados de la IP se mostrarán aquí -->
+      </div>
+    </main>
+
+    <script type="module" src="script.js"></script>
+  </body>
+</html>
