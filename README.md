@@ -29,10 +29,10 @@ Si deseas ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina:
    ```bash
-   git clone https://github.com/tu-usuario/ip-lookup.git
+   git clone https://github.com/Mactuber/IP-Traker-Online.git
 2. Navega al directorio del proyecto:
    ```bash
-   cd ip-lookup
+   cd IP-Traker-Online
 3. Para ver la aplicación localmente, puedes usar el servidor integrado de PHP. Abre una terminal en el directorio del proyecto y ejecuta el siguiente comando:
    ```bash
    php -S localhost:8000
