@@ -54,7 +54,6 @@ Este proyecto utiliza las siguientes tecnologías y servicios:
 
 ## Ejemplo Práctico:
 ![Imagen 1](images/img1.png)
-![Imagen 2](images/img2.png)
 ![Imagen 3](images/img3.png)
 
 
