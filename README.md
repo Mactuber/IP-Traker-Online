@@ -39,15 +39,13 @@ Si deseas ejecutar este proyecto en tu máquina local, sigue estos pasos:
 4. Ahora podrás acceder a la aplicación desde tu navegador en http://localhost:8000.
 
 ## Uso
-    En la página principal, introduce la dirección IP que deseas rastrear en el campo de texto.
-    Haz clic en el botón "Rastrear información de esta IP".
-    La aplicación mostrará la información de la IP, incluyendo detalles como:
-        Ubicación (continente, país, ciudad)
-        Información del ASN (número, organización)
-        Riesgo asociado con el ASN
-        Estado de VPN (si la IP está asociada a una VPN)
-        Correo electrónico para reportar abusos
-        Información de la zona horaria (hora local, etc.)
+En la página principal, introduce la dirección IP que deseas rastrear en el campo de texto. Haz clic en el botón "Rastrear información de esta IP". La aplicación mostrará la información de la IP, incluyendo detalles como:
+-   **Ubicación**: (continente, país, ciudad)
+-   **Información del ASN**: (número, organización)
+-   **Riesgo asociado con el ASN**
+-   **Estado de VPN**: (si la IP está asociada a una VPN)
+-   **Correo electrónico para reportar abusos**
+-   **Información de la zona horaria**: (hora local, etc.)
 
 ## Dependencias
 Este proyecto utiliza las siguientes tecnologías y servicios:
